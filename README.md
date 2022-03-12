@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **moholeshraddha2021@gmail.com**
 
--👩‍🎓 Student of **Computer sci**
+- 👩‍🎓 Student of **Computer sci**
 - 👩‍💻 I have completed **C language,Data structure and Algorithm,C++ programming**
 - 🍵👩‍💻I am learnig **Java**
 - 🖥️my goal**Full stack developer**
