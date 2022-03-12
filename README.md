@@ -8,12 +8,13 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-- 📫 How to reach me **moholeshraddha2021@gmail.com**
 
 - 👩‍🎓 Student of **Computer sci**
 - 👩‍💻 I have completed **C language,Data structure and Algorithm,C++ programming**
 - 🍵👩‍💻I am learnig **Java**
 - 🖥️my goal**Full stack developer**
+- 
+- 📫 How to reach me **moholeshraddha2021@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
