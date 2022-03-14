@@ -11,15 +11,15 @@
 
 - 👩‍🎓 Student of **Computer sci**
 - 👩‍💻 I have completed **C language,Data structure and Algorithm,C++ programming**
-- 🍵👩‍💻I am learnig **Java**
-- 🖥️my goal**Full stack developer**
+- 🍵👩‍💻I am currently learnig **Java**
+- 🖥️my goal to become **Full Stack JAVA Developer**
 - 
 - 📫 How to reach me **moholeshraddha2021@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/@shraddha-mohole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@shraddha-mohole" height="30" width="40" /></a>
-<a href="https://fb.com/@shraddhamohole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@shraddhamohole" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/@shraddha-mohole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@shraddha mohole" height="30" width="40" /></a>
+<a href="https://fb.com/@shraddhamohole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@shraddha mohole" height="30" width="40" /></a>
 <a href="https://instagram.com/shraddha_mohole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shraddha_mohole" height="30" width="40" /></a>
 </p>
 
