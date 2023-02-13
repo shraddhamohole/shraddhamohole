@@ -9,8 +9,9 @@
 
 
 
-- 👩‍🎓 Student of **Computer sci**
-- 👩‍💻 I have completed **C language,Data structure and Algorithm,C++ programming**
+- 👩‍🎓 Student of **Master of Computer sci**
+- 👩‍**Completed BCS from sangamner college,sangamner**
+- 👩‍💻 I have completed **C language,Data structure and Algorithm,C++ programming classes from Technorbit infosystem**
 - 🍵👩‍💻I am currently learnig **Java**
 - 🖥️my goal to become **Full Stack JAVA Developer**
 - 
