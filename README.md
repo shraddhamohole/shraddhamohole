@@ -9,7 +9,7 @@
 
 
 
-- 👩‍🎓 Student of **Master of Computer sci**
+- 👩‍🎓 Completed **Master of Computer sci** From Abasaheb Garware College
 - 👩‍**Completed BCS from sangamner college,sangamner**
 - 👩‍💻 I have completed **C language,Data structure and Algorithm,C++ programming classes from Technorbit infosystem**
 - 🍵👩‍💻I am currently learnig **Java**
